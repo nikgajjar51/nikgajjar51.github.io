@@ -1376,7 +1376,7 @@ header .logo a {
 	color: transparent;
 	width: 92px;
 	height: 15px;
-	background: url("../images/logo.png") no-repeat center;
+	background: url("../images/menu-title.png") no-repeat center;
 	background-size: 92px 15px;
 }
 
@@ -1796,8 +1796,8 @@ header .logo a {
  */
 #about {
 	background: #FFFFFF;
-	padding-top: 12rem;
-	padding-bottom: 15rem;
+	padding-top: 4rem;
+	padding-bottom: 4rem;
 }
 
 #about .section-intro {
@@ -2479,12 +2479,12 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #services {
-	background: #313131 url(../images/bg.jpg) no-repeat center;
+	background: #313131 no-repeat center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
-	padding-top: 12rem;
-	padding-bottom: 12rem;
+	padding-top: 4rem;
+	padding-bottom: 4rem;
 	color: white;
 	position: relative;
 }
